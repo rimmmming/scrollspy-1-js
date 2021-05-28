@@ -32,3 +32,5 @@ navElem.addEventListener('click', e => {
     });
   }
 });
+
+//findIndex
